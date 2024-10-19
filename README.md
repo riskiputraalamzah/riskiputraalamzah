@@ -33,7 +33,7 @@ p align="center">
 
 ### ⚙️ Tech Stack Diagram
 
-![Tech Stack](https://raw.githubusercontent.com/riski-putra-alamzah/riski-putra-alamzah/master/images/tech-stack-diagram.png)
+![Tech Stack](https://raw.githubusercontent.com/riskiputraalamzah/riskiputraalamzah/refs/heads/main/file-iqgZfHOh0X2eMxhtCKkZN6g5%20(3).webp)
 
 ---
 
