@@ -32,11 +32,6 @@
 
 ---
 
-### ⚙️ Tech Stack Diagram
-
-![Tech Stack](https://raw.githubusercontent.com/riskiputraalamzah/riskiputraalamzah/refs/heads/main/file-iqgZfHOh0X2eMxhtCKkZN6g5%20(3).webp)
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
