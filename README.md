@@ -8,15 +8,15 @@
 ---
 
 <p align="center">
-  <a href="https://s.id/alamzah"><img src="https://img.shields.io/badge/Website-https://s.id/alamzah-1abc9c.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://riskiputraalamzah.my.id"><img src="https://img.shields.io/badge/Website-https://riskiputraalamzah.my.id-1abc9c.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:riskialamzah1@gmail.com"><img src="https://img.shields.io/badge/Email-riskialamzah1@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/riski-alamzah-843202222"><img src="https://img.shields.io/badge/LinkedIn-Riski%20Alamzah-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/riski-putra-alamzah/"><img src="https://img.shields.io/badge/LinkedIn-Riski%20Alamzah-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 💬 About Me
-- 👨‍💻 All of my projects are available at [my portfolio](https://s.id/alamzah)
+- 👨‍💻 All of my projects are available at [my portfolio](https://riskiputraalamzah.my.id)
 - 💬 Ask me about **Laravel, Vue, React**
 - 📫 Reach me at **riskialamzah1@gmail.com**
 
