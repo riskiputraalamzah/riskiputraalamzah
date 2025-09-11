@@ -17,9 +17,20 @@
 
 ---
 <h1 align="center">💫 About Me:</h1>
-<p align="center">
-I am a passionate web developer with over 3 years of experience<br>in full-stack development. Skilled in both frontend and backend<br>technologies, I specialize in building modern, scalable, and efficient<br><br>web applications. With a strong focus on adapting to the ever-<br>evolving tech landscape, I stay updated with the latest tools and<br><br>frameworks to deliver innovative and impactful solutions. My<br>expertise includes JavaScript frameworks, responsive design,<br>RESTful APIs, and database management, ensuring seamless user<br>experiences and robust functionality. I am committed to continuous<br>learning, collaboration, and excellence in every project I undertake.
-</p>
+<div align="center">
+  <p>
+    I am a passionate Full Stack Developer with over 3 years of hands-on experience in building modern, scalable, and efficient web applications.
+  </p>
+  <p>
+    I focus on staying up-to-date with the latest technologies and frameworks, ensuring that every solution I deliver is innovative, reliable, and impactful.
+  </p>
+  <p>
+    My expertise includes JavaScript frameworks, responsive design, RESTful APIs, and database management — all aimed at creating seamless user experiences and robust functionality.
+  </p>
+  <p>
+    I am committed to continuous learning, collaboration, and delivering excellence in every project I work on.
+  </p>
+</div>
 
 ---
 
